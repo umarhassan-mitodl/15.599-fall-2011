@@ -18,4 +18,4 @@ Please watch the following video for an overview of the steps required to instal
 
 Overall steps of installing Condor on a Mac. (This video was created by Galaxy Advisors and is not covered under our [Creative Commons](/terms/#cc) license)
 
-More specific instructions are provided in the {{% resource_link "6a9ed0cd-abe9-484c-8e9c-21b3c04c335d" "Condor Videos" %}} section of the Galaxy Advisors website.
+More specific instructions are provided in the [Condor Videos](http://www.ickn.org/ckntools.html) section of the Galaxy Advisors website.
