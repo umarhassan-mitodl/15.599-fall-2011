@@ -1,0 +1,58 @@
+{
+  "term": "Fall",
+  "year": "2011",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Information Technology"
+    ],
+    [
+      "Business",
+      "Innovation"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Data Mining"
+    ]
+  ],
+  "legacy_uid": "87f3d0a2-5972-ccdc-b85f-bbec771b7e5b",
+  "instructors": {
+    "content": [
+      "e12f3281-b1b5-f895-8a0c-3619b4764de4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "272e5b76-d061-16e0-f84f-048c6f7f5762",
+    "website": "15-599-workshop-in-it-collaborative-innovation-networks-fall-2011"
+  },
+  "course_title": "Workshop in IT: Collaborative Innovation Networks",
+  "course_description": "Diversity begets creativity\u2014in this seminar we tap the amazing power of swarm creativity on the Web by studying and working together as Collaborative Innovation Networks (COINs). As interdisciplinary teams of MIT management, SCAD design, University of Cologne informatics, and Aalto University software engineering students we will explore how to discover latest trends on the Web, and how to make them succeed in online social networks. We study a wide range of methods for predictive analytics (coolhunting) and online social marketing (coolfarming), mostly based on social network analysis and the emerging science of collaboration. Students will also learn to use our own unique MIT-developed Condor tool for Web mining, social network analysis, and trend prediction.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.599",
+  "course_image_thumbnail": {
+    "content": "7014d66e-6d91-b027-d294-a26c7b9a1dab",
+    "website": "15-599-workshop-in-it-collaborative-innovation-networks-fall-2011"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects",
+    "Presentation Assignments",
+    "Programming Assignments"
+  ],
+  "site_uid": "f541ad81-2546-42a0-91f6-fe9bad3ad6c5",
+  "site_short_id": "15.599-fall-2011",
+  "site_url_path": "courses/15-599-workshop-in-it-collaborative-innovation-networks-fall-2011",
+  "title": "Course Metadata"
+}

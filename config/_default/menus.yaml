@@ -1,0 +1,35 @@
+leftnav:
+- identifier: c44fc9b1-42fd-8842-9358-a790e036ae3b
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 953b630f-6879-d8be-99aa-38b67b525342
+  name: Software
+  pageRef: /pages/software/
+  weight: 20
+- identifier: 07e4bf2b-62f0-4331-0b9f-6462397f64fa
+  name: Condor for Mac
+  pageRef: /pages/software/condor-for-mac
+  parent: 953b630f-6879-d8be-99aa-38b67b525342
+  weight: 30
+- identifier: baa73c71-b400-6e4e-3ead-ed4bb1d22dc5
+  name: Condor for PC
+  pageRef: /pages/software/condor-for-pc
+  parent: 953b630f-6879-d8be-99aa-38b67b525342
+  weight: 40
+- identifier: 422728ee-97c0-f1b5-d3a3-e397aa595815
+  name: Calendar and Readings
+  pageRef: /pages/calendar-and-readings
+  weight: 50
+- identifier: ea833a76-0abf-da48-ee89-070d49512151
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 60
+- identifier: b5a58fdf-df7e-a4db-c2a4-1be8a5eae730
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 70
+- identifier: 076cc526-a8a6-028d-4ff9-05137cd041f5
+  name: Projects
+  pageRef: /pages/projects
+  weight: 80
